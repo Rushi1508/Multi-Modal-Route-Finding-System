@@ -1,0 +1,9 @@
+streamlit
+requests
+folium
+streamlit-folium
+opencv-python
+numpy
+networkx
+scikit-image
+matplotlib
