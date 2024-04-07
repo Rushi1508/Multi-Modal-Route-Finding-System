@@ -1,0 +1,14 @@
+## Requirements
+
+- Python (>=3.6)
+- Streamlit
+- requests
+- base64
+- folium
+- streamlit-folium
+- OpenCV (cv2)
+- numpy
+- networkx
+- scikit-image (skimage)
+- Pillow (PIL)
+- matplotlib
