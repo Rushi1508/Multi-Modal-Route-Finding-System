@@ -1,9 +1,12 @@
 streamlit
 requests
+base64
 folium
-streamlit-folium
-opencv-python
+streamlit_folium
+opencv-python-headless
 numpy
 networkx
 scikit-image
+Pillow
 matplotlib
+speech_recognition
