@@ -3,8 +3,7 @@ import requests
 import base64
 
 def generative_image_editing():
-
-
+    
     url = "http://127.0.0.1:7860"
     endpoint = "txt2img"
 
