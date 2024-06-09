@@ -1,6 +1,6 @@
 import streamlit as st
 
-# Import your mode functions
+
 from textbased import *
 from imagebased import *
 from voicebased import *
