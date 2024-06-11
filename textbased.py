@@ -14,7 +14,6 @@ import io
 import tempfile
 import os
 
-
 def geocode_location(location_name):
     url = f"https://nominatim.openstreetmap.org/search?q={location_name}&format=json"
     response = requests.get(url)
