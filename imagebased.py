@@ -91,6 +91,7 @@ def closest_graph_node(graph, point):
             closest_node = node
             min_distance = distance
     return closest_node
+    
 def image_based_mode():
     """Functionality for finding routes based on image input"""
     uploaded_file = st.sidebar.file_uploader("Upload an image", type=["jpg", "jpeg", "png"], key="image_uploader")
