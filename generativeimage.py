@@ -6,7 +6,6 @@ def generative_image_editing():
     
     url = "http://127.0.0.1:7860"
     endpoint = "txt2img"
-
     # Inputs in the sidebar
     user_prompt = st.sidebar.text_input("Enter a prompt:")
     nsteps = st.sidebar.slider("Steps", min_value=1, max_value=150, value=20)
