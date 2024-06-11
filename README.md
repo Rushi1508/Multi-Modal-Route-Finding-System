@@ -38,6 +38,6 @@ streamlit run Route Finder.py
 In current usage, the user needs to install Stable diffusion in this system as the generative image mode uses its local api for producing sample images.
 you can download stable diffusion via the following link: https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
-You also need to download a model for generating images. We are using DreamShaper Model for image generation.
+You also need to download a model for generating images. I am using DreamShaper Model for image generation.
 
 
