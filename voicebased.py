@@ -30,6 +30,7 @@ def voice_based_mode():
     if st.sidebar.button("Start Speaking for Goal Location", key="goal_speak_button"):
         st.session_state['goal_location_voice'] = voice_to_text()
 
+    
     profile = st.sidebar.radio("Transportation Mode", ("Driving", "Walking", "Cycling"), key="transport_mode").lower()
 
     if st.sidebar.button("Find Route", key="find_route_voice_button"):
